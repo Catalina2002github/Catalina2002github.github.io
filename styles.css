@@ -22,19 +22,14 @@ li{
     padding: 15px 30px;
 }
 
+
+
 a{
-    text-aslign: center;
-    tect-decoration: none;
+    text-align: center;
+    text-decoration: none;
     font-family: 'Open Sans', sans-serif;
     font-size: 1.2vw;
-}
-a:hover{
-    color:
-}
 
-.active {
-    background-color: palevioletred;
-}
 
 body {  
 
