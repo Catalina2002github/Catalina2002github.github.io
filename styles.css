@@ -18,6 +18,7 @@ ul{
 li{
     display: inline;
 }
+
 .active {
     background-color: palevioletred;
 }
@@ -30,5 +31,10 @@ body {
 
 h1 {  
     color: palevioletred;  
-    margin-left: 40px;  
+    position: absolute;
+    padding: 2px;
+    float: left;
+    margin-left: 2%
+    margin-top:10px;
+    font-family:'Alfa Slab One', cursive; 
 } 
