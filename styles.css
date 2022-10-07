@@ -19,7 +19,7 @@ li{
     display: inline;
 }
 .active {
-    background-color: rgb(144, 158, 238);
+    background-color: palevioletred;
 }
 
 body {  ;
