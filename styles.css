@@ -20,6 +20,13 @@ li{
     padding: 15px 30px;
 }
 
+a{
+    text-aslign: center;
+    tect-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2vw;
+}
+
 .active {
     background-color: palevioletred;
 }
