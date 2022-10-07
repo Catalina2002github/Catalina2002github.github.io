@@ -4,7 +4,7 @@
 }
 
 header {
-background: rgb(238, 130, 238)
+background-color:blue;
 }
 
 ul{
@@ -16,8 +16,11 @@ ul{
 li{
     display: inline;
 }
+.active {
+    background-color: rgb(144, 158, 238);
+}
 
-body {  
+body {  ;
 
     background-color: lightblue;  
 
