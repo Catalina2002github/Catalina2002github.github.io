@@ -11,6 +11,9 @@ background-color: black;
 
 ul{
     list-style-type: none
+    width: auto;
+    float: right;
+    margin-top: 8p;
     margin: 0;
     padding: 0;
     overflow: hidden;
